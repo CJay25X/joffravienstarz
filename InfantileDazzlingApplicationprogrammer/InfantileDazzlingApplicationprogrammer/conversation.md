@@ -1,1 +1,0 @@
-User needs final working website files to upload to GitHub. Skipping _redirects file due to packaging restrictions.
